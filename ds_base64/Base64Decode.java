@@ -1,3 +1,5 @@
+package ds_base64;
+
 class Base64Decode {
     private final static String base64chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
